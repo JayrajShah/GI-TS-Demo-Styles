@@ -1,0 +1,35 @@
+.pinboard-header-module__pinboardLbEmbedHeader, .pinboard-header-module__removeEmbedHeaderWhitespace, .bk-embed-powered-by-ts-ribbon{
+    display:none !important;
+    
+}
+
+.pinboard-header-module__stickyPinboardHeaderVisible {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+.slide-show-module__separatorSlide .flex-layout-module__vertical{
+    padding: 0rem 1.7142857143rem !important;
+}
+
+.react-grid-layout { 
+    background: #fff !important;
+}
+
+/* .MuiGrid-root div[data-testid="tsEmbed"] {
+    height: 15em !important;
+} */
+
+.embed-module__tsEmbedWrapper.embed-module__fullheight .react-grid-layout .react-grid-item {
+    border-radius: 0em !important;
+    box-shadow: none !important;
+}
+
+.embed-module__tsEmbedWrapper:not(.embed-module__fullheight) .react-grid-layout .react-grid-item {
+    margin: 0em -0.5em !important;
+    width: 19.9em !important;
+    border-radius: 0em !important;
+    border-right: #0000002e 1px solid !important;
+    border-left: #0000002e 1px solid !important;
+    box-shadow: none !important;
+}
