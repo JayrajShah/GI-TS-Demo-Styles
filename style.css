@@ -1,0 +1,13 @@
+.pinboard-header-module__pinboardLbEmbedHeader, .pinboard-header-module__removeEmbedHeaderWhitespace{
+    display:none !important;
+    
+}
+
+.pinboard-header-module__stickyPinboardHeaderVisible {
+    opacity: 0 !important;
+    visibility: hidden !important;
+}
+
+.slide-show-module__separatorSlide .flex-layout-module__vertical{
+    padding: 0rem 1.7142857143rem !important;
+}
